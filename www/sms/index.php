@@ -5,7 +5,6 @@
 	<head>
 		<title>fooSMS</title>
 		<link rel="stylesheet" href="sms.css" type="text/css" />
-		<link href='http://fonts.googleapis.com/css?family=Junge' rel='stylesheet' type='text/css'>
 		<script type="text/javascript" src="jquery.min.js"></script>
 		<script type="text/javascript" src="sms.js"></script>
 	</head>
