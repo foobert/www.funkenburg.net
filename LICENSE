@@ -1,1 +1,8 @@
 All rights reserved.
+
+The files apache2-foreground, apache2.conf, docker-php-ext-configure and
+docker-php-ext-install are copied from https://github.com/docker-library/php
+
+The Dockerfile is also adapted from that repository.
+
+See LICENSE.docker for details
